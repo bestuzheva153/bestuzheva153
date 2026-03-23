@@ -10,10 +10,11 @@ Backend developer (Go)
 
 ## Tech stack
 
-* Go (goroutines, channels)
-* PostgreSQL
-* Docker
+* Go (goroutines, channels, context, error handling) 
+* PostgreSQL (queries, transactions)
+* Docker, Docker Compose
 * REST API
+* Linux, Git
 * Java, C#
 
 ## Experience
